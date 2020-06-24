@@ -1,2 +1,1 @@
-# hello-world
-my first git
+#Hash Algorithms
